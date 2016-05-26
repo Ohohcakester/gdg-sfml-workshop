@@ -1,3 +1,11 @@
+# SFML Sample Code
+
+* Sample sfml code to be used as a compilation test: sfml_sample.cpp
+
+Expected Result:
+
+![sfml_sample](https://raw.githubusercontent.com/Ohohcakester/orbital16-gamedev/images/images/sfml_sample.gif)
+
 # Compiling SFML
 
 The official setup instructions for SFML can be found here.
