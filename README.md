@@ -1,4 +1,4 @@
-# How to Compile
+# Compiling SFML
 
 The official setup instructions for SFML can be found here.
 
