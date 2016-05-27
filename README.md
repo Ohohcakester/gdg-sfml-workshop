@@ -4,7 +4,7 @@
 
 Expected Result:
 
-![sfml_sample](https://raw.githubusercontent.com/Ohohcakester/orbital16-gamedev/images/images/sfml_sample.gif)
+![sfml_sample](../images/images/sfml_sample.gif)
 
 # Compiling with SFML
 
