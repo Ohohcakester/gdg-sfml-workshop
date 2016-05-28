@@ -1,6 +1,6 @@
 # Workshop Slides
 
-![Part 1 Slides](./slides.pdf)
+[Part 1 Slides](./slides.pdf)
 
 # SFML Sample Code
 
