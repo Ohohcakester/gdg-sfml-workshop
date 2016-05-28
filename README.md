@@ -1,3 +1,7 @@
+# Workshop Slides
+
+![Part 1 Slides](./slides.pdf)
+
 # SFML Sample Code
 
 * Sample sfml code to be used as a compilation test: [sfml_sample.cpp](https://raw.githubusercontent.com/Ohohcakester/gdg-sfml-workshop/master/compilation_tests/sample_game.cpp?token=AE989UeWcuWW9S6mQSNjnEadbe22VENZks5XUCg6wA%3D%3D)
