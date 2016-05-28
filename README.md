@@ -75,3 +75,10 @@ then run these two lines to compile.
 g++ -std=c++11 -c *.cpp
 g++ -std=c++11 *.o -o Game -lsfml-graphics -lsfml-window -lsfml-system
 ```
+
+## Versions
+
+#### V0
+
+![v0](../images/images/v0.png)
+
