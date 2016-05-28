@@ -94,3 +94,7 @@ g++ -std=c++11 *.o -o Game -lsfml-graphics -lsfml-window -lsfml-system
 
 ![v4](../images/images/v4.gif)
 
+#### V5
+
+![v5](../images/images/v5.gif)
+
