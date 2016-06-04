@@ -120,3 +120,7 @@ g++ -std=c++11 *.o -o Game -lsfml-graphics -lsfml-window -lsfml-system
 
 Add camera object - no visual change
 
+#### V10 - Camera
+
+![v10](../images/images/v10.gif)
+
