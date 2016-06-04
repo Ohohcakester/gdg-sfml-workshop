@@ -145,3 +145,7 @@ Create Sfx abstract class - no visual change
 
 ![v15](../images/images/v15.gif)
 
+#### V16 - Array Deletion
+
+Regularly clean up inactive objects in array - no visual change
+
