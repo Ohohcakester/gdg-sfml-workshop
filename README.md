@@ -157,3 +157,6 @@ Regularly clean up inactive objects in array - no visual change
 
 ![v18](../images/images/v18.gif)
 
+#### VFinal - Splitting
+
+Split the game into multiple files. Game is exactly the same.
