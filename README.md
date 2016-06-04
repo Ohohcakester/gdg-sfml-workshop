@@ -128,3 +128,8 @@ Add camera object - no visual change
 
 ![v11](../images/images/v11.gif)
 
+#### V12 - Camera
+
+Smooth camera movement
+![v12](../images/images/v12.gif)
+
