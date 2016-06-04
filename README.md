@@ -124,3 +124,7 @@ Add camera object - no visual change
 
 ![v10](../images/images/v10.gif)
 
+#### V11 - Camera
+
+![v11](../images/images/v11.gif)
+
