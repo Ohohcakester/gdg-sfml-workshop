@@ -131,6 +131,7 @@ Add camera object - no visual change
 #### V12 - Camera
 
 Smooth camera movement
+
 ![v12](../images/images/v12.gif)
 
 #### V13 - SFX
@@ -138,7 +139,7 @@ Smooth camera movement
 Create Sfx abstract class - no visual change
 
 #### V14 - SFX
-
+/
 ![v14](../images/images/v14.gif)
 
 #### V15 - SFX
